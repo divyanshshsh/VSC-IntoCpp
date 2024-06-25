@@ -1,2 +1,2 @@
 # IntoCpp
-getting startrd with C 
+Getting startrd with C 
